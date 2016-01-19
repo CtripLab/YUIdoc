@@ -1,0 +1,11 @@
+{
+  "name": "这是测试标题",
+  "description": "YUIDoc documentation tool written in JavaScript",
+  "version": "0.9.0",
+  "url": "http://yuilibrary.com/projects/yuidoc",
+  "logo": "http://pic.c-ctrip.com/common/c_logo2013.png",
+  "options": {
+        "linkNatives": "true",
+        "outdir": "./output"
+    }
+}
